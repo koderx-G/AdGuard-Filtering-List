@@ -1,0 +1,17 @@
+! Title: Paramount+
+! Description: This list unblocks paramount+ streaming service.
+! Homepage: https://github.com/koderx-G/Pi-Hole-Allowed-Lists
+! License: https://github.com/koderx-G/Pi-Hole-Allowed-Lists/blob/main/LICENSE
+! Issues: https://github.com/koderx-G/Pi-Hole-Allowed-Lists/issuesr
+! Last modified: 25 May 2026 08:22 UTC
+! Syntax: AdBlock
+! Number of entries: 8
+
+@@||paramountplus.com^$document
+@@||cbsi.com^$document
+@@||cbsaavideo.com^$document
+@@||vod-gcs-cedexis.cbsaavideo.com^$document
+@@||saa.paramountplus.com^$important
+@@||cdn-media.brightline.tv^$important
+@@||events.brightline.tv^$important
+@@||pubads.g.doubleclick.net^$important
